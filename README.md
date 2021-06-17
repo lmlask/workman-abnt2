@@ -2,6 +2,8 @@
 Layout Workman portátil adaptado ao padrão ABNT2 de teclados brasileiros.
 Desenvolvido sobre o clássico Portable Keyboard Layout de Máté Farkas.
 
+![workmanbr](https://github.com/lmlask/workmanbr/blob/main/workmanBR.png?raw=true)
+
 O layout Workman (workmanlayout.org) foi desenvolvido em 2010 por OJ Bucao como forma de garantir uma experiência de digitação mais confortável e potencialmente mais rápida que o terrível QWERTY, ao mesmo tempo corrigindo as falhas que encontrou no layout Colemak.
 
 O layout original foi desenvolvido para uso no inglês e, portanto, não suporta alguns caracteres especiais do português - ¨´`^~ç - entre outros.
