@@ -23,7 +23,7 @@ Para pausar o programa, pressione LAlt+RAlt. Para fechar o programa e retornar a
 # Extend
 Esta versão implementa uma camada de extensão ao teclado. Para acessá-la, a tecla CapsLock foi substituída por uma tecla Extend - de baixa utilização e fácil acesso, é a mais adequada para tal. 
 
-A camada de extensão permite navegação rápida (com as teclas WASD, mais Q e E para mover o cursor para o início ou fim de cada linha), um teclado numérico na posição padrão dos dedos da mão direita, e outros atalhos úteis e/ou comuns em suas posições usuais do layout QWERTY, como recortar, copiar e colar; também disponibiliza uma tecla BACKSPACE e uma tecla ENTER que são mais facilmente acessíveis desta forma do que retirando a mão direita da posição padrão. 
+A camada de extensão permite navegação rápida (com as posições comuns das teclas WASD+QE para mover o cursor para o início ou fim de cada linha), um teclado numérico na posição padrão dos dedos da mão direita, e outros atalhos úteis e/ou comuns em suas posições usuais do layout QWERTY, como recortar, copiar e colar; também disponibiliza uma tecla BACKSPACE e uma tecla ENTER que são mais facilmente acessíveis desta forma do que retirando a mão direita da posição padrão. 
 
 Caso você digite em português e inglês, o atalho Extend+T (posição F do QWERTY) é um apóstrofe facilmente acessível para contrações e genitivos em inglês.
 
