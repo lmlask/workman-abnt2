@@ -1,6 +1,6 @@
 # WorkmanBR
 Layout Workman adaptado ao padrão ABNT2 de teclados brasileiros.
-Desenvolvido no excelente KLFC (https://github.com/39aldo39/klfc).
+Desenvolvido no excelente KLFC de Aldo Gunsing (https://github.com/39aldo39/klfc).
 
 ![base](https://user-images.githubusercontent.com/62627597/133872516-dd592aff-1966-4e89-87c9-cb021e532919.png)
 
@@ -22,7 +22,7 @@ Para permitir essa adaptação, os sinais ;: são agora digitados utilizando a t
 
 # Extend
 
-![extend](https://user-images.githubusercontent.com/62627597/133872717-df0797e9-d28e-4652-a76c-9c5385e89c7b.png)
+![extend](https://user-images.githubusercontent.com/62627597/133872830-0d0f2ca3-d08e-45bd-ae10-a13e7b7aec48.png)
 
 Esta versão implementa uma camada de extensão ao teclado. Para acessá-la, a tecla CapsLock foi substituída por uma tecla Extend - de baixa utilização e fácil acesso, é a mais adequada para tal. 
 
