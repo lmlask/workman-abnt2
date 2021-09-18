@@ -52,5 +52,7 @@ Se preferir não instalar o layout ou se seu sistema não utiliza XKB, execute o
 ## AutoHotkey
 Não acho que AHK seja o meio ideal para mudar um layout de teclado, mas caso prefira utilizá-lo, o script está incluso na pasta 'AutoHotkey'.
 
+O arquivo .json incluso pode ser usado pelo KLFC caso você decida compilar ou modificar o layout. Caso contrário, não é utilizado.
+
 # Licença
 GNU General Public License 3
