@@ -37,4 +37,3 @@ Utilizar a camada de extensão requer prática, assim como aprender um novo layo
 
 # Licença
 GNU General Public License 3
-Portable Keyboard Layout Copyright (C) 2007-2008 FARKAS, Máté
