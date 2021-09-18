@@ -17,11 +17,11 @@ No teclado ABNT2 a tecla Shift direita é especialmente inacessível, a ponto de
 
 Para permitir essa adaptação, os sinais ;: são agora digitados utilizando a tecla \| do QWERTY, e os sinais \| foram movidos para a posição menos acessível do Shift direito.
 
-# Normal
+## Normal
 
 ![base](https://user-images.githubusercontent.com/62627597/133872664-76314d93-d330-459d-8354-cf6522ebb364.png)
 
-# Extend
+## Extend
 
 ![extend](https://user-images.githubusercontent.com/62627597/133872830-0d0f2ca3-d08e-45bd-ae10-a13e7b7aec48.png)
 
@@ -34,6 +34,23 @@ Caso você digite em português e inglês, o atalho Extend+T (posição F do QWE
 Utilizar a camada de extensão requer prática, assim como aprender um novo layout, mas a extensão é incrivelmente poderosa para tornar o processo de input muitas vezes mais eficiente, rápido e confortável, especialmente quando utilizado por lognos períodos.
 
 # Instalação
+
+##Windows
+Faça download do repositório e utilize os arquivos da pasta 'Windows'.
+
+O layout foi implementado no excelente PKL de Máté Farkas, então é completamente portátil, e pode ser utilizado em qualquer computador, mesmo sem direitos de administrador.
+
+Basta iniciar pkl.exe e o layout estará ativo. Shift+F1 esconde a imagem de ajuda, e LAlt + RAlt desativam o layout.
+
+##Linux
+Faça download do repositório e utilize os arquivos da pasta 'Linux'.
+
+Execute o script 'install-system.sh' para instalar o layout, se seu sistema utiliza XKB. Depois, pode selecionar e gerenciar o layout nas configurações do teclado normalmente.
+
+Se preferir não instalar o layout ou se seu sistema não utiliza XKB, execute o script 'run-session.sh' para ativar o layout durante sua sessão atual.
+
+##AutoHotkey
+Não acho que AHK seja o meio ideal para mudar um layout de teclado, mas caso prefira utilizá-lo, o script está incluso na pasta 'AutoHotkey'.
 
 # Licença
 GNU General Public License 3
