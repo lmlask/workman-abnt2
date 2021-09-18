@@ -15,7 +15,7 @@ Os sinais ´`~^ estão em suas posições normais do ABNT2. A cedilha (Ç) foi m
 
 No teclado ABNT2 a tecla Shift direita é especialmente inacessível, a ponto de encorajar a má prática de utilizar sempre o Shift esquerdo. Isso ocorre porque a adição da tecla /? afasta o shift direito da posição padrão da mão direita. Para corrigir este problema, a tecla ;: do ABNT2 foi substituída por uma tecla Shift mais facilmente acessível. Isso permite a utilização total de ambas as teclas Shift com menor tempo de adaptação.
 
-Para permitir essa adaptação, os sinais ;: são agora digitados utilizando a tecla \| do QWERTY, e os sinais \| foram movidos para a posição menos acessível do Shift direito.
+Para permitir essa adaptação, os sinais ;: são agora digitados utilizando a tecla \\| do QWERTY, e os sinais \\| foram movidos para a posição menos acessível do Shift direito.
 
 ## Normal
 
@@ -35,21 +35,21 @@ Utilizar a camada de extensão requer prática, assim como aprender um novo layo
 
 # Instalação
 
-##Windows
+## Windows
 Faça download do repositório e utilize os arquivos da pasta 'Windows'.
 
 O layout foi implementado no excelente PKL de Máté Farkas, então é completamente portátil, e pode ser utilizado em qualquer computador, mesmo sem direitos de administrador.
 
 Basta iniciar pkl.exe e o layout estará ativo. Shift+F1 esconde a imagem de ajuda, e LAlt + RAlt desativam o layout.
 
-##Linux
+## Linux
 Faça download do repositório e utilize os arquivos da pasta 'Linux'.
 
 Execute o script 'install-system.sh' para instalar o layout, se seu sistema utiliza XKB. Depois, pode selecionar e gerenciar o layout nas configurações do teclado normalmente.
 
 Se preferir não instalar o layout ou se seu sistema não utiliza XKB, execute o script 'run-session.sh' para ativar o layout durante sua sessão atual.
 
-##AutoHotkey
+## AutoHotkey
 Não acho que AHK seja o meio ideal para mudar um layout de teclado, mas caso prefira utilizá-lo, o script está incluso na pasta 'AutoHotkey'.
 
 # Licença
