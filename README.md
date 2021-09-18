@@ -1,4 +1,4 @@
-# WorkmanBR
+# Workman-ABNT2
 Layout Workman adaptado ao padrão ABNT2 de teclados brasileiros.
 
 Desenvolvido no excelente KLFC de Aldo Gunsing (https://github.com/39aldo39/klfc).
