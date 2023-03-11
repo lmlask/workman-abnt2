@@ -2,7 +2,7 @@
 set -eu
 
 dir=$(dirname "$0")
-layout="wkmbr"
+layout="wk"
 layout=${1:-$layout}
 xcompose_file=${XCOMPOSEFILE:-$HOME/.XCompose}
 include_klfc="include \"%H/.XCompose-klfc-$layout\""

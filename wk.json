@@ -1,8 +1,8 @@
 {
   "fullName": "Workman ABNT2",
-  "name": "wkm-abnt2",
+  "name": "wk",
   "copyright": "Public Domain",
-  "company": "2022-01-01 Lui Wolff",
+  "company": "2023-03-10 Lui Wolff",
   "localeId": "00000416",
   "version": "1.0",
   "singletonKeys": [
@@ -30,7 +30,7 @@
         { "pos": "E", "letters": [ "r", "R", "Browser_Refresh" ] },
         { "pos": "R", "letters": [ "w", "W", "Browser_Forward" ] },
         { "pos": "T", "letters": [ "b", "B" ] },
-        { "pos": "Y", "letters": [ "j", "J" ] },
+        { "pos": "Y", "letters": [ "j", "J", "PageUp" ] },
         { "pos": "U", "letters": [ "f", "F", "Home" ] },
         { "pos": "I", "letters": [ "u", "U", "Up" ] },
         { "pos": "O", "letters": [ "p", "P", "End" ] },
@@ -42,14 +42,14 @@
         { "pos": "D", "letters": [ "h", "H", "Control" ] },
         { "pos": "F", "letters": [ "t", "T", "'" ] },
         { "pos": "G", "letters": [ "g", "G" ] },
-        { "pos": "H", "letters": [ "y", "Y" ] },
+        { "pos": "H", "letters": [ "y", "Y", "PageDown" ] },
         { "pos": "J", "letters": [ "n", "N", "Left" ] },
         { "pos": "K", "letters": [ "e", "E", "Down" ] },
         { "pos": "L", "letters": [ "o", "O", "Right" ] },
         { "pos": ";", "letters": [ "i", "I", "PageDown" ] },
         { "pos": "'", "letters": [ "tilde", "circumflex", "Menu" ] },
         { "pos": "\\", "letters": [ "]", "}", "Sleep" ] },
-        { "pos": "Iso", "letters": [ ";", ":", "" ] },
+        { "pos": "Iso", "letters": [ "\\", "|" ] },
         { "pos": "Z", "letters": [ "z", "Z", "Undo" ] },
         { "pos": "X", "letters": [ "x", "X", "Cut" ] },
         { "pos": "C", "letters": [ "m", "M", "Copy" ] },
@@ -59,9 +59,8 @@
         { "pos": "M", "letters": [ "l", "L", "Backspace" ] },
         { "pos": ",", "letters": [ ",", "<", "Delete" ] },
         { "pos": ".", "letters": [ ".", ">", "PrintScreen" ] },
-        { "pos": "/", "shiftlevels": [ "None", "Extend" ], "letters": [ "Shift", "Shift" ] },
-        { "pos": "Ro", "letters": [ "/", "?", "Wake" ] },
-        { "pos": "Shift_R", "letters": [ "\\", "|", "compose" ] }
+        { "pos": "Ro", "letters": [ "/", "?" ] },
+        { "pos": "/", "letters": [ ";", ":" ] }
       ]
     },
     {

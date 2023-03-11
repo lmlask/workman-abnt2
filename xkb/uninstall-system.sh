@@ -3,8 +3,8 @@ set -eu
 
 xkb_dir_from=$(dirname "$0")
 xkb_dir_to="/usr/share/X11/xkb"
-layout="wkmbr"
-description="WorkmanBR"
+layout="wk"
+description="Workman ABNT2"
 mods=""
 
 OPTIND=1

@@ -2,7 +2,7 @@
 set -eu
 
 xkb_dir=$(dirname "$0")
-layout="wkmbr"
+layout="wk"
 mod=""
 variant="basic"
 warning_level=0
